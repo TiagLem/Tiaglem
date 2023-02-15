@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🔭 Atualmente sou um estudande solo ^^<br>
 🌱 Estou procurando evoluir na área da programação (Rumo ao Fullstack)<br>
-📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias<br>
+📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias (tiagolemos04@gmail.com)<br>
 
 <hr>
 
@@ -41,8 +41,4 @@ Here are some ideas to get you started:
   <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
          
 </div><hr>
-
-<div>
- <a href = "tiagolemos04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
   
