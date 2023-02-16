@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 Atualmente sou um estudande solo ^^<br>
 🌱 Estou procurando evoluir na área da programação (Rumo ao FullStack)<br>
-📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias (tiagolemos04@gmail.com)<br>
+📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias<br>
 ⚡ Inglês básico-intermediário, mas como podem ver, prefiro a linguagem local 😆<br>
 👨🏼‍💻 Perfil em desemvolvimento<br>
 
