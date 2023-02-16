@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 <h1 align="center">Olá, sejam bem-vindos ao meu humilde perfil 👋</h1>
 
----
-
 🔭 Atualmente sou um estudande solo ^^<br>
 🌱 Estou procurando evoluir na área da programação (Rumo ao FullStack)<br>
 📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias<br>
