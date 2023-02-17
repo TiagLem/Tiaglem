@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
   
   <!-- Hack Coding GIF By Matthew Butler -->
-  <img height="150em" width="350" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxM2NmYzg0OGJjZWM5Nzc4Y2UwZDkxYjdiNjMzOWQxMDVjMDY0OSZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
+  <img height="150em" width="330" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxM2NmYzg0OGJjZWM5Nzc4Y2UwZDkxYjdiNjMzOWQxMDVjMDY0OSZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
   
   🔭 Atualmente sou um estudande solo ^^<br>
   🌱 Estou procurando evoluir na área da programação (Rumo ao FullStack)<br>
