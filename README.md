@@ -162,5 +162,8 @@ Here are some ideas to get you started:
 </div>
   <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img height="10em" width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0363.gif" border="0" alt="linha-imagem-animada-0363" /></a>
   
+<div align="center">
+  
 ![snake gif](https://github.com/Tiaglem/Tiaglem/blob/output/github-contribution-grid-snake.svg)
   
+</div>
