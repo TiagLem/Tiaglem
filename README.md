@@ -15,17 +15,26 @@ Here are some ideas to get you started:
 
 <h1 align="center">Olá, sejam bem-vindos ao meu humilde perfil 👋</h1>
 
-🔭 Atualmente sou um estudande solo ^^<br>
-🌱 Estou procurando evoluir na área da programação (Rumo ao FullStack)<br>
-📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias<br>
-⚡ Inglês básico-intermediário, mas como podem ver, prefiro a linguagem local 😆<br>
-👨🏼‍💻 Perfil em desemvolvimento<br>
+<div style="display: inline_block">
+  
+  <!-- Hack Coding GIF By Matthew Butler -->
+  <img height="150em" width="350" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxM2NmYzg0OGJjZWM5Nzc4Y2UwZDkxYjdiNjMzOWQxMDVjMDY0OSZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
+  
+  🔭 Atualmente sou um estudande solo ^^<br>
+  🌱 Estou procurando evoluir na área da programação (Rumo ao FullStack)<br>
+  📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias<br>
+  ⚡ Inglês básico-intermediário, mas como podem ver, prefiro a linguagem local 😆<br>
+  🎮 Meu hobby são os jogos<br>
+  👨🏼‍💻 Perfil em desemvolvimento<br>
+  
+</div>
 
----
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img height="10em" width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0363.gif" border="0" alt="linha-imagem-animada-0363" /></a>
 
 <h3 align="center">📊 Um pouco das minhas estatísticas 📊</h3>
 
----
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img height="10em" width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0363.gif" border="0" alt="linha-imagem-animada-0363" /></a>
+
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
@@ -42,17 +51,17 @@ Here are some ideas to get you started:
 <div align="center">
   
   <a href="https://github.com/Tiaglem">
-  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Tiaglem&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="165em" align="center" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Tiaglem&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars&locale=pt-br"/>
     
-  <img height="135em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaglem&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
+  <img height="135em" align="top" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaglem&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
     
 </div>
   
- ---
+ <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img height="10em" width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0363.gif" border="0" alt="linha-imagem-animada-0363" /></a>
 
   <h3 align="center">⚙️ Minhas linguagens e ferramentas ⚙️</h3>
   
- ---
+ <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img height="10em" width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0363.gif" border="0" alt="linha-imagem-animada-0363" /></a>
   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
@@ -136,7 +145,7 @@ Here are some ideas to get you started:
     </a>
 </div>-->
   
----
+<a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img height="10em" width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0363.gif" border="0" alt="linha-imagem-animada-0363" /></a>
   
 <h6 align="center"> 
   A vida é curta, curta a vida!<br>
@@ -148,5 +157,8 @@ Here are some ideas to get you started:
   <!--badge -> https://img.shields.io  -->
     <a href="https://instagram.com/tiagolemos04?igshid=NmQ2ZmYxZjA=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/FKeZh5Ah" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:tiagolemos04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=defaut" target="_blank"></a>  
+  <a href = "mailto:tiagolemos04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=defaut" target="_blank"></a><br>
+  
 </div>
+  <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img height="10em" width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0363.gif" border="0" alt="linha-imagem-animada-0363" /></a>
+  
