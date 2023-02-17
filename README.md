@@ -51,9 +51,9 @@ Here are some ideas to get you started:
 <div align="center">
   
   <a href="https://github.com/Tiaglem">
-  <img height="165em" align="center" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api?username=Tiaglem&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars&locale=pt-br"/>
+  <img height="165em" align="center" src="https://github-readme-stats.vercel.app/api?username=Tiaglem&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide=stars&locale=pt-br"/>
     
-  <img height="135em" align="top" style="padding-right:10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaglem&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
+  <img height="135em" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tiaglem&layout=compact&langs_count=7&theme=nightowl&locale=pt-br"/>
     
 </div>
   
