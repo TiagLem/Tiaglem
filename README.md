@@ -13,6 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Caso alguém queira usar o código abaixo
+Para ficar igual ao meu layout basta trocar
+Onde tem o nome "Tiaglem" para o nome do seu
+Usuário, dessa forma acredito que funcione,
+Tbm tem uma parte das linguagens comentadas,
+Basta tirar as linguagens que vc deseja adicionar
+No seu perfil do comentários. A única parte
+Que não irá funcionar copiando e colando será
+A parte da cobrinha, pois é necessário adicionar
+Uma action no repositório q irá executar em 
+Tempos e tempos. Caso queira adicionar só mandar
+Email que eu enviarei algum vídeo ou tutorial
+Ensiando. Obg se leu até aqui. -->
+
 <h1 align="center">Olá, sejam bem-vindos ao meu humilde perfil 👋</h1>
 
 <div style="display: inline_block">
