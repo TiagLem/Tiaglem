@@ -13,10 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- LEIA ABAIXO CASO QUEIRA ADD NO SEU PERFIL -->
+
 <!-- Caso alguém queira usar o código abaixo
 Para ficar igual ao meu layout basta trocar
 Onde tem o nome "Tiaglem" para o nome do seu
-Usuário, dessa forma acredito que funcione,
+Usuário/Repositório (Isso mesmo, vc precisa
+criar um repositório com o mesmo nome do 
+seu usuário, assim irá liberar essa funcão), 
+dessa forma acredito que funcione,
 Tbm tem uma parte das linguagens comentadas,
 Basta tirar as linguagens que vc deseja adicionar
 No seu perfil do comentários. A única parte
