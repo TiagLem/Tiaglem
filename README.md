@@ -48,6 +48,9 @@ Ensiando. Obg se leu até aqui. -->
   
 </div>
 
+<!-- Linha de fogo é um gif, só clicar nela que te leva ao site
+Tem vários modelos disponíveis -->
+
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img height="10em" width="100%" src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0363.gif" border="0" alt="linha-imagem-animada-0363" /></a>
 
 <h3 align="center">📊 Um pouco das minhas estatísticas 📊</h3>
