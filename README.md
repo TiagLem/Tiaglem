@@ -103,6 +103,8 @@ Tem vários modelos disponíveis -->
         <img  alt="Git" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
     </a>
 </div>
+
+<!-- Aqui é a parte dos ícones, escolha os que vc está focado atualmente-->
   
 <!--<div style="display: inline_block">
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
