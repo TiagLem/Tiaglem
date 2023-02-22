@@ -44,6 +44,7 @@ Ensiando. Obg se leu até aqui. -->
   📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias<br>
   ⚡ Inglês básico-intermediário, mas como podem ver, prefiro a linguagem local 😆<br>
   🎮 Meu hobby são os jogos<br>
+  😄 2023 será um grande ano<br>
   👨🏼‍💻 Perfil em desemvolvimento<br>
   
 </div>
