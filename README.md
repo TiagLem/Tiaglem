@@ -97,6 +97,9 @@ Tem vários modelos disponíveis -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
         <img  alt="CSS" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
     </a>
+    <a href="https://www.w3schools.com/c/c_intro.php" target="_blank" rel="noreferrer">
+        <img  alt="C" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/> 
+    </a>
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
         <img  alt="Java" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     </a>
