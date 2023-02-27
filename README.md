@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- LEIA ABAIXO CASO QUEIRA ADD NO SEU PERFIL!! -->
+<!-- LEIA ABAIXO CASO QUEIRA ADD NO SEU PERFIL -->
 
 <!-- Caso alguém queira usar o código abaixo
 Para ficar igual ao meu layout basta trocar
