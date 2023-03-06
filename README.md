@@ -45,7 +45,7 @@ Ensiando. Obg se leu até aqui. -->
   ⚡ Inglês básico-intermediário, mas como podem ver, prefiro a linguagem local 😆<br>
   🎮 Meu hobby são os jogos<br>
   😄 2023 será um grande ano<br>
-  👨🏼‍💻 Perfil em desemvolvimento<br>
+  👨🏼‍💻 Perfil PAUSADO POR UM TEMPO<br>
   
 </div>
 
