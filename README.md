@@ -40,12 +40,10 @@ Ensiando. Obg se leu até aqui. -->
   <img height="150em" width="330" align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUxM2NmYzg0OGJjZWM5Nzc4Y2UwZDkxYjdiNjMzOWQxMDVjMDY0OSZjdD1n/26tn33aiTi1jkl6H6/giphy.gif">
   
   🔭 Atualmente sou um estudande solo ^^<br>
-  🌱 Estou procurando evoluir na área da programação (Rumo ao FullStack)<br>
+  🌱 Estou procurando evoluir na área da programação<br>
   📫 Caso queira entrar em contato mande um e-mail, visualizo todos os dias<br>
-  ⚡ Inglês básico-intermediário, mas como podem ver, prefiro a linguagem local 😆<br>
+  ⚡ Inglês básico<br>
   🎮 Meu hobby são os jogos<br>
-  😄 2024 será um grande ano<br>
-  👨🏼‍💻 Perfil PAUSADO POR UM TEMPO<br>
   
 </div>
 
